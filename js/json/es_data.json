@@ -26,8 +26,8 @@
         "year": "2017"
       },
       "text": {
-        "headline": "Mathematics Degree<br/> 2011-2017",
-        "text": "<p>Degree in mathematics with minor in Economics.</br> Experties on C coding and Numerical Methods</br>Thesis: Finite element method</p>"
+        "headline": "Grado en Matematicas Degree<br/> 2011-2017",
+        "text": "<p>Grado en Matematicas co mencion en Economia.</br> Especialización en programación en C y Métodos Numéricos</br><b>Tesis:</b> Metodo de elementos finitos</p>"
       }
     },
     {
@@ -46,8 +46,8 @@
         "year": "2018"
       },
       "text": {
-        "headline": "Master Degree <br/> 2017-2018",
-        "text": "<p>Mathematical Modeling for Science and engineering </br> Master Thesis: “Moving boundary PDE: the Stefan Problem”</p>"
+        "headline": "Master Oficial <br/> 2017-2018",
+        "text": "<p>Mathematical Modeling for Science and engineering </br> <b>Master Tesis:</b> Moving boundary PDE: the Stefan Problem</p>"
       }
     },
     {
@@ -66,7 +66,7 @@
         "year": "2022"
       },
       "text": {
-        "headline": "Associated Professor",
+        "headline": "Professor Asociado",
         "text": "<p><b>Subjects:</b> </br> Numerical methods 1 and 2, Calculus 1,</br> C coding, Graph theory </br> <b>Tutorias:</b></br><a href=\"https://diposit.ub.edu/dspace/handle/2445/176693\">Ataque cuántico a la criptografía con curvas elípticas</br><a href=\"https://diposit.ub.edu/dspace/handle/2445/182251\">Estudio de los métodos de optimización en el deep reinforcement learning aplicado a los videojuegos</a></p>"
       }
     },
@@ -87,7 +87,7 @@
       },
       "text": {
         "headline": "Programador de Python Junior <br/> Ingeniero consultor Backend engineer consultor",
-        "text": "<p><b>Technologies:</b> </br> Flask, Fastapi, Postgres </br> MongoDB, AWS, Kafka </br> <b>Projects:</b> </br> <a href=\"https://solicitargasnatural.nedgia.es/\">solicitargasnatural.nedgia.es</a> </br> Kubik Data</p>"
+        "text": "<p><b>Tecnologias:</b> </br> Flask, Fastapi, Postgres </br> MongoDB, AWS, Kafka </br> <b>Proyectos:</b> </br> <a href=\"https://solicitargasnatural.nedgia.es/\">solicitargasnatural.nedgia.es</a> </br> Kubik Data</p>"
       }
     },
     {
