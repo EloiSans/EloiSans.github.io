@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "//media.licdn.com/dms/image/D4D03AQGuVDZY8uRExw/profile-displayphoto-shrink_200_200/0/1691057068325?e=1696464000&v=beta&t=lafkgSB9q9nyk_rybUw8HkWvY-0Pw5YVMPoI27mIV8E",
+          "url": "../img/eloi.jpeg",
           "caption": "Abril 2022"
         },
         "text": {
@@ -66,8 +66,8 @@
         "year": "2022"
       },
       "text": {
-        "headline": "Associated Professor",
-        "text": "<p><b>Subjects:</b> </br> Numerical methods 1 and 2, Calculus 1,</br> C coding, Graph theory </br> <b>Mentorships:</b></p>"
+        "headline": "Associate Professor",
+        "text": "<p><b>Subjects:</b> </br> Numerical methods 1 and 2, Calculus 1,</br> C coding, Graph theory </br> <b>Mentorships:</b></br><a href=\"https://diposit.ub.edu/dspace/handle/2445/176693\">Quantum Attack on Elliptic Curve Cryptography</br><a href=\"https://diposit.ub.edu/dspace/handle/2445/182251\">Study of optimization methods in deep reinforcement learning applied to video games</a></p>"
       }
     },
     {
@@ -87,7 +87,7 @@
       },
       "text": {
         "headline": "Junior Python developer <br/> Backend engineer consultor",
-        "text": "<p><b>Technologies:</b> </br> Flask, Fastapi, Postgres </br> MongoDB, AWS, Kafka </br> <b>Projects:</b> </br> <a href=\"https://solicitargasnatural.nedgia.es/\">solicitargasnatural.nedgia.es</a> </br> <a href=\"https://play.google.com/store/apps/details?id=com.kubikdata.kubik&hl=es_BO/\">Kubik Data</a></p>"
+        "text": "<p><b>Technologies:</b> </br> Flask, Fastapi, Postgres </br> MongoDB, AWS, Kafka </br> <b>Projects:</b> </br> <a href=\"https://solicitargasnatural.nedgia.es/\">solicitargasnatural.nedgia.es</a> </br> Kubik Data</p>"
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "text": {
         "headline": "ML investigator",
-        "text": "<p><b>Papers:</b> </br> </br> <b>Codes:</b> </br> </p>"
+        "text": "<p><b>Papers:</b> </br> </br> <b>Codes:</b> </br> <a href=\"https://github.com/TAMI-UIB/UNLDSR\">UNLDSR</a></br> </p>"
       }
     }
     ]

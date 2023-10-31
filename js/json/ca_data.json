@@ -1,0 +1,134 @@
+{
+    "title": {
+        "media": {
+          "url": "../img/eloi.jpeg",
+          "caption": "Abril 2022"
+        },
+        "text": {
+          "headline": "Eloi Sans Gispert <br/> 26/03/1993",
+          "text": "<p>Graduat en Matemàtiques per la Universitat de Barcelona, tinc una àmplia experiència laboral tant en el món acadèmic com empresarial. He tutoritzat treballs relacionats amb ML i computació quàntica. En el món empresarial he desenvolupat APPS amb els principals frameworks de Python: Flask, FastAPI, Dash...</p><p><a href=https://www.linkedin.com/in/eloi-sans-6177b3155>Linkedin</a>"
+        }
+    },
+    "events": [
+      {
+      "media": {
+        "url": "//mat.ub.edu/wp-content/themes/matUB/images/logo_ub.png",
+        "caption": "Universitat de Barcelona"
+      },
+      "start_date": {
+        "day": "12",
+        "month": "9",
+        "year": "2011"
+      },
+      "end_date": {
+        "day": "11",
+        "month": "2",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "Grau de Matemàtiques<br/> 2011-2017",
+        "text": "<p>Grau en matemàtiques amb menció en Economía.</br> Especialització en programació en C i Mètodes Numèrics</br><b>TFG:</b> Mètode dels elements finits</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "//ceet.org.es/wp-content/uploads/2017/03/Logo-UAB.jpg",
+        "caption": "Universitat Autonoma de Barcelona"
+      },
+      "start_date": {
+        "day": "1",
+        "month": "10",
+        "year": "2017"
+      },
+      "end_date": {
+        "day": "11",
+        "month": "8",
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Master Oficial <br/> 2017-2018",
+        "text": "<p>Mathematical Modeling for Science and engineering </br> <b>TFM:</b> Moving boundary PDE: the Stefan Problem</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "//mat.ub.edu/wp-content/themes/matUB/images/logo_ub.png",
+        "caption": "Universitat de Barcelona"
+      },
+      "start_date": {
+        "day": "1",
+        "month": "2",
+        "year": "2019"
+      },
+      "end_date": {
+        "day": "14",
+        "month": "9",
+        "year": "2022"
+      },
+      "text": {
+        "headline": "Professor Associat",
+        "text": "<p><b>Assignatures:</b> </br> Mètodes Numèrics 1 i 2, Càlcul 1,</br> Programació C, Teoria de Grafs </br> <b>Tutories:</b></br><a href=\"https://diposit.ub.edu/dspace/handle/2445/176693\">Atac quàntic a la criptografia amb corbes el·liptiques</br><a href=\"https://diposit.ub.edu/dspace/handle/2445/182251\">Estudi dels mètodes d'optimització al deep reinforcement learning aplicat als videojocs</a></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "//www.basetis.com/wp-content/uploads/2018/11/Basetis_Logotipo.svg",
+        "caption": "<a href=https://www.basetis.com/en/> BASE TECHNOLOGY & INFORMATION SERVICES </a>"
+      },
+      "start_date": {
+        "day": "15",
+        "month": "4",
+        "year": "2019"
+      },
+      "end_date": {
+        "day": "13",
+        "month": "9",
+        "year": "2021"
+      },
+      "text": {
+        "headline": "Programador Python Junior<br/> Conultor com a enginyer Backend",
+        "text": "<p><b>Tecnologies:</b> </br> Flask, Fastapi, Postgres </br> MongoDB, AWS, Kafka </br> <b>Projects:</b> </br> <a href=\"https://solicitargasnatural.nedgia.es/\">solicitargasnatural.nedgia.es</a> </br> Kubik Data</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "//www.capalona.co.uk/include/images/platform/outfund-logo.jpg",
+        "caption": "<a href=https://out.fund/en/> Outfund </a>"
+      },
+      "start_date": {
+        "day": "1",
+        "month": "10",
+        "year": "2021"
+      },
+      "end_date": {
+        "day": "9",
+        "month": "12",
+        "year": "2022"
+      },
+      "text": {
+        "headline": "Programador Python Senior<br/> Backend & Data engineer",
+        "text": "<p><b>Tecnologies:</b> </br> Fastapi, Confluent, Snowflake </br> Heroku, Dash, Prophet </br> <b>Projectes:</b> </br> Client performance forecasting </br> Lead refinement </br> Data aggregation</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "//logo.uib.cat/digitalAssets/338/338690_logo-uib-horizontal300.png",
+        "caption": "Universitat de les Illes Balears"
+      },
+      "start_date": {
+        "day": "15",
+        "month": "3",
+        "year": "2023"
+      },
+      "end_date": {
+        "day": "15",
+        "month": "3",
+        "year": "2024"
+      },
+      "text": {
+        "headline": "Investigador ML",
+        "text": "<p><b>Articles:</b> </br> </br> <b>Codis:</b></br> <a href=\"https://github.com/TAMI-UIB/UNLDSR\">UNLDSR</a></br> </p>"
+      }
+    }
+    ]
+}

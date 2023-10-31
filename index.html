@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js" lang="">
 
 <head>
@@ -12,34 +12,39 @@
   <meta property="og:url" content="">
   <meta property="og:image" content="">
 
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="manifest" href="./site.webmanifest">
+  <link rel="apple-touch-icon" href="./img/icon.png">
   <!-- Place favicon.ico in the root directory -->
 
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/main.css">
 
   <meta name="theme-color" content="#fafafa">
 </head>
 
 <body>
-  <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
-  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
-  <div id='timeline-embed' style="width: 100%; height: 600px"></div>
-
-  <!-- Add your site or application content here -->
-  <p>Work in progress!!!</p>
-  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
-  <script type="module" src="js/timeline.js"></script>
-
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
-    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
+    // Define the target languages and their corresponding redirect URLs
+    const languageRedirects = {
+      'en': 'https://EloiSans.github.io/en/timeline.html',
+      'es': 'https://EloiSans.github.io/es/timeline.html',
+      'ca': 'https://EloiSans.github.io/ca/timeline.html',
+      // 'ca': 'http://localhost:63342/EloiSans.github.io/ca/timeline.html',
+      // Add more languages and URLs as needed
+    };
+
+    // Get the user's browser language
+    const userLanguage = navigator.language || navigator.userLanguage;
+
+    // Check if the user's language is in the list of supported languages
+    if (languageRedirects.hasOwnProperty(userLanguage)) {
+      // Redirect the user to the appropriate URL
+      window.location.href = languageRedirects[userLanguage];
+    } else {
+      // Fallback redirection in case the user's language is not supported
+      window.location.href = 'https://EloiSans.github.io/en/timeline.html'; // Provide a default URL
+    }
   </script>
-  <script src="https://www.google-analytics.com/analytics.js" async></script>
 </body>
 
 </html>
