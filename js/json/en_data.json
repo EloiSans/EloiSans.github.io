@@ -1,134 +1,134 @@
 {
-    "title": {
-        "media": {
-          "url": "../img/eloi.jpeg",
-          "caption": "Abril 2022"
-        },
-        "text": {
-          "headline": "Eloi Sans Gispert <br/> 26/03/1993",
-          "text": "<p>Graduated in Mathematics from the University of Barcelona, I have extensive work experience in both the academic and business worlds. I have tutored related work in ML and Quantic computing. In the business world I have developed APPS with the main Python frameworks: Flask, FastAPI, Dash...</p><p><a href=https://www.linkedin.com/in/eloi-sans>Linkedin</a></p><p><a href=https://github.com/EloiSans>GitHub</a></p><p><a href=https://orcid.org/0009-0000-7702-2425>ORCID</a>"
-        }
-    },
-    "events": [
-      {
+  "title": {
       "media": {
-        "url": "//mat.ub.edu/wp-content/themes/matUB/images/logo_ub.png",
-        "caption": "Universitat de Barcelona"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "9",
-        "year": "2011"
-      },
-      "end_date": {
-        "day": "11",
-        "month": "2",
-        "year": "2017"
+        "url": "../img/eloi.jpeg",
+        "caption": "Abril 2022"
       },
       "text": {
-        "headline": "Mathematics Degree<br/> 2011-2017",
-        "text": "<p>Degree in mathematics with minor in Economics.</br> Experties on C coding and Numerical Methods</br><b>Thesis:</b> Finite element method</p>"
+        "headline": "Eloi Sans Gispert <br/> 26/03/1993",
+        "text": "<p>Graduated in Mathematics from the University of Barcelona, I have extensive work experience in both the academic and business worlds. I have tutored related work in ML and Quantic computing. In the business world I have developed APPS with the main Python frameworks: Flask, FastAPI, Dash... Nowadays I'm investigating on AI at the Universitat de les Illes Balears</p><p><a href=https://www.linkedin.com/in/eloi-sans>Linkedin</a></p><p><a href=https://github.com/EloiSans>GitHub</a></p><p><a href=https://orcid.org/0009-0000-7702-2425>ORCID</a>"
       }
-    },
+  },
+  "events": [
     {
-      "media": {
-        "url": "//ceet.org.es/wp-content/uploads/2017/03/Logo-UAB.jpg",
-        "caption": "Universitat Autonoma de Barcelona"
-      },
-      "start_date": {
-        "day": "1",
-        "month": "10",
-        "year": "2017"
-      },
-      "end_date": {
-        "day": "11",
-        "month": "8",
-        "year": "2018"
-      },
-      "text": {
-        "headline": "Master Degree <br/> 2017-2018",
-        "text": "<p>Mathematical Modeling for Science and engineering </br> <b>Master Thesis:</b> “Moving boundary PDE: the Stefan Problem”</p>"
-      }
+    "media": {
+      "url": "//mat.ub.edu/wp-content/themes/matUB/images/logo_ub.png",
+      "caption": "Universitat de Barcelona"
     },
-    {
-      "media": {
-        "url": "//mat.ub.edu/wp-content/themes/matUB/images/logo_ub.png",
-        "caption": "Universitat de Barcelona"
-      },
-      "start_date": {
-        "day": "1",
-        "month": "2",
-        "year": "2019"
-      },
-      "end_date": {
-        "day": "14",
-        "month": "9",
-        "year": "2022"
-      },
-      "text": {
-        "headline": "Associate Professor",
-        "text": "<p><b>Subjects:</b> </br> Numerical methods 1 and 2, Calculus 1,</br> C coding, Graph theory </br> <b>Mentorships:</b></br><a href=\"https://diposit.ub.edu/dspace/handle/2445/176693\">Quantum Attack on Elliptic Curve Cryptography</br><a href=\"https://diposit.ub.edu/dspace/handle/2445/182251\">Study of optimization methods in deep reinforcement learning applied to video games</a></p>"
-      }
+    "start_date": {
+      "day": "12",
+      "month": "9",
+      "year": "2011"
     },
-    {
-      "media": {
-        "url": "//www.basetis.com/wp-content/uploads/2018/11/Basetis_Logotipo.svg",
-        "caption": "<a href=https://www.basetis.com/en/> BASE TECHNOLOGY & INFORMATION SERVICES </a>"
-      },
-      "start_date": {
-        "day": "15",
-        "month": "4",
-        "year": "2019"
-      },
-      "end_date": {
-        "day": "13",
-        "month": "9",
-        "year": "2021"
-      },
-      "text": {
-        "headline": "Junior Python developer <br/> Backend engineer consultor",
-        "text": "<p><b>Technologies:</b> </br> Flask, Fastapi, Postgres </br> MongoDB, AWS, Kafka </br> <b>Projects:</b> </br> <a href=\"https://solicitargasnatural.nedgia.es/\">solicitargasnatural.nedgia.es</a> </br> Kubik Data</p>"
-      }
+    "end_date": {
+      "day": "11",
+      "month": "2",
+      "year": "2017"
     },
-    {
-      "media": {
-        "url": "//www.capalona.co.uk/include/images/platform/outfund-logo.jpg",
-        "caption": "<a href=https://out.fund/en/> Outfund </a>"
-      },
-      "start_date": {
-        "day": "1",
-        "month": "10",
-        "year": "2021"
-      },
-      "end_date": {
-        "day": "9",
-        "month": "12",
-        "year": "2022"
-      },
-      "text": {
-        "headline": "Senior Python developer <br/> Backend & Data engineer",
-        "text": "<p><b>Technologies:</b> </br> Fastapi, Confluent, Snowflake </br> Heroku, Dash, Prophet </br> <b>Projects:</b> </br> Client performance forecasting </br> Lead refinement </br> Data aggregation</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "//logo.uib.cat/digitalAssets/338/338690_logo-uib-horizontal300.png",
-        "caption": "Universitat de les Illes Balears"
-      },
-      "start_date": {
-        "day": "15",
-        "month": "3",
-        "year": "2023"
-      },
-      "end_date": {
-        "day": "15",
-        "month": "3",
-        "year": "2024"
-      },
-      "text": {
-        "headline": "ML investigator",
-        "text": "<p><b>Papers:</b> </br> </br> <b>Codes:</b> </br> <a href=\"https://github.com/TAMI-UIB/UNLDSR\">UNLDSR</a></br> </p>"
-      }
+    "text": {
+      "headline": "Mathematics Degree<br/> 2011-2017",
+      "text": "<p>Degree in mathematics with minor in Economics.</br> Experties on C coding and Numerical Methods</br><b>Thesis:</b> Finite element method</p>"
     }
-    ]
+  },
+  {
+    "media": {
+      "url": "//ceet.org.es/wp-content/uploads/2017/03/Logo-UAB.jpg",
+      "caption": "Universitat Autonoma de Barcelona"
+    },
+    "start_date": {
+      "day": "1",
+      "month": "10",
+      "year": "2017"
+    },
+    "end_date": {
+      "day": "11",
+      "month": "8",
+      "year": "2018"
+    },
+    "text": {
+      "headline": "Master Degree <br/> 2017-2018",
+      "text": "<p>Mathematical Modeling for Science and engineering </br> <b>Master Thesis:</b> “Moving boundary PDE: the Stefan Problem”</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "//mat.ub.edu/wp-content/themes/matUB/images/logo_ub.png",
+      "caption": "Universitat de Barcelona"
+    },
+    "start_date": {
+      "day": "1",
+      "month": "2",
+      "year": "2019"
+    },
+    "end_date": {
+      "day": "14",
+      "month": "9",
+      "year": "2022"
+    },
+    "text": {
+      "headline": "Associate Professor",
+      "text": "<p><b>Subjects:</b> </br> Numerical methods 1 and 2, Calculus 1,</br> C coding, Graph theory </br> <b>Mentorships:</b></br><a href=\"https://diposit.ub.edu/dspace/handle/2445/176693\">Quantum Attack on Elliptic Curve Cryptography</br><a href=\"https://diposit.ub.edu/dspace/handle/2445/182251\">Study of optimization methods in deep reinforcement learning applied to video games</a></p>"
+    }
+  },
+  {
+    "media": {
+      "url": "//www.basetis.com/wp-content/uploads/2018/11/Basetis_Logotipo.svg",
+      "caption": "<a href=https://www.basetis.com/en/> BASE TECHNOLOGY & INFORMATION SERVICES </a>"
+    },
+    "start_date": {
+      "day": "15",
+      "month": "4",
+      "year": "2019"
+    },
+    "end_date": {
+      "day": "13",
+      "month": "9",
+      "year": "2021"
+    },
+    "text": {
+      "headline": "Junior Python developer <br/> Backend engineer consultor",
+      "text": "<p><b>Technologies:</b> </br> Flask, Fastapi, Postgres </br> MongoDB, AWS, Kafka </br> <b>Projects:</b> </br> <a href=\"https://solicitargasnatural.nedgia.es/\">solicitargasnatural.nedgia.es</a> </br> Kubik Data</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "//www.capalona.co.uk/include/images/platform/outfund-logo.jpg",
+      "caption": "<a href=https://out.fund/en/> Outfund </a>"
+    },
+    "start_date": {
+      "day": "1",
+      "month": "10",
+      "year": "2021"
+    },
+    "end_date": {
+      "day": "9",
+      "month": "12",
+      "year": "2022"
+    },
+    "text": {
+      "headline": "Senior Python developer <br/> Backend & Data engineer",
+      "text": "<p><b>Technologies:</b> </br> Fastapi, Confluent, Snowflake </br> Heroku, Dash, Prophet </br> <b>Projects:</b> </br> Client performance forecasting </br> Lead refinement </br> Data aggregation</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "//logo.uib.cat/digitalAssets/338/338690_logo-uib-horizontal300.png",
+      "caption": "Universitat de les Illes Balears"
+    },
+    "start_date": {
+      "day": "15",
+      "month": "3",
+      "year": "2023"
+    },
+    "end_date": {
+      "day": "15",
+      "month": "3",
+      "year": "2024"
+    },
+    "text": {
+      "headline": "ML investigator",
+      "text": "<p><b>Papers:</b> </br> </br> <b>Codes:</b> </br> <a href=\"https://github.com/TAMI-UIB/UNLDSR\">UNLDSR</a></br> </p>"
+    }
+  }
+  ]
 }
