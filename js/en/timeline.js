@@ -7,7 +7,7 @@ async function fetchData(url) {
 }
 
 // Fetch JSON data and initialize the timeline
-fetchData('../json/en_data.json')
+fetchData('https://eloisans.github.io/js/json/en_data.json')
     .then(data => {
         console.log(data);
         window.timeline = new TL.Timeline('timeline-embed', data);
