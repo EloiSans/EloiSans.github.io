@@ -1,4 +1,15 @@
-import data from '../json/en_data.json';
+async function fetchData(url) {
+    const response = await fetch(url);
+    if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+    }
+    return await response.json();
+}
 
-console.log(data);
-window.timeline = new TL.Timeline('timeline-embed', data);
+// Fetch JSON data and initialize the timeline
+fetchData('../json/en_data.json')
+    .then(data => {
+        console.log(data);
+        window.timeline = new TL.Timeline('timeline-embed', data);
+    })
+    .catch(error => console.error('There has been a problem with your fetch operation:', error));
