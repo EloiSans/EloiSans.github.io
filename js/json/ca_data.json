@@ -122,12 +122,32 @@
     },
     "end_date": {
       "day": "15",
-      "month": "3",
+      "month": "11",
       "year": "2024"
     },
     "text": {
       "headline": "Investigador IA",
-      "text": "<p><b>Articles:</b> </br> </br> <b>Codis:</b></br> <a href=\"https://github.com/TAMI-UIB/UNLDSR\">UNLDSR</a></br> </p>"
+      "text": "<p><b>Articles:</b> </br><a href=\"https://doi.org/10.5220/0012395400003660\"> </br> <b>Codis:</b></br> <a href=\"https://github.com/TAMI-UIB/UNLDSR\">UNLDSR</a></br> </p>"
+    }
+  },
+  {
+    "media": {
+      "url": "https://www.techbarcelona.com/wp-content/uploads/51163C29-02CF-4CED-9E56-6FA1E3CE56A0-1.jpeg",
+      "caption": "Nuclio Digital School"
+    },
+    "start_date": {
+      "day": "7",
+      "month": "3",
+      "year": "2024"
+    },
+    "end_date": {
+      "day": "9",
+      "month": "7",
+      "year": "2024"
+    },
+    "text": {
+      "headline": "Master en gestió de producte",
+      "text": "<ul>  <li>Agile i Scrum</li>  <li>OKRs</li>  <li>UI Research</li>  <li>Lean MVP</li>  <li>Data Driven Decisions</li></ul>"
     }
   }
   ]
